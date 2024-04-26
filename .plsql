@@ -1,0 +1,16 @@
+
+SET SERVEROUTPUT ON;
+SET VERIFY OFF;
+
+Declare
+
+begin
+
+end
+/
+
+CREATE TABLE PRODUCTO ( 
+
+    ID NUMBER,
+
+)
