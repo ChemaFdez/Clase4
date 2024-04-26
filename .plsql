@@ -12,5 +12,6 @@ end
 CREATE TABLE PRODUCTO ( 
 
     ID NUMBER,
+    NOMBRE VARCHAR(),
 
 )
